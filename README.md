@@ -101,6 +101,14 @@ https://documenter.getpostman.com/view/33808453/2sA3XSC29z
 ## BackEnd Deployment Link
 https://nodejs-day39-task-mentor-student.onrender.com
 
+## Packages Used
+<ul>
+  <li>express</li>
+  <li>nodedmon</li>
+  <li>cors</li>
+  <li>mongoose</li>
+</ul>
+
 
 
 
